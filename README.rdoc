@@ -1,10 +1,10 @@
 == About this fork
 
-I forked http://github.com/wizardwerdna/table_builder to convert it from a plugin to a gem.
+I forked https://github.com/jchunky/table_builder to make it Rails 3 friendly.
 
 = TableBuilder
 
-Rails builder for creating tables and calendars inspired by ActionView's FormBuilder, updated for Rails 3.0beta
+Rails builder for creating tables and calendars inspired by ActionView's FormBuilder, updated for Rails 3.0
 This is a fork of Petrik de Heus plugin for earlier versions of Rails.  Note the new idiomatic use of "<%=" for the
 table_for and calendar_for functions. 
 
