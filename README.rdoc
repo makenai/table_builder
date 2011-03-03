@@ -121,11 +121,12 @@ If you want to add id's to your td tag you can pass a pattern:
 
 Inside your Gemfile:
 
-  gem 'table_builder', '0.0.3', :git => 'git://github.com/jchunky/table_builder.git' 
+  gem 'table_builder', :git => 'git://github.com/sashaparfenov/table_builder.git'
   
 == Contributors
 
-Thanks to Petrik de Heus and Sean Dague.
+Thanks to Petrik de Heus, Sean Dague, and Jason Cheong-Kee-You
 
 Original Work Copyright (c) 2008 Petrik de Heus, released under the MIT license.
 Fork revisions Copyright (c) 2010 Andrew C. Greenberg, released under the MIT license
+Fork revisions Copyright (c) 2011 Sasha Parfenov, released under the MIT license.
