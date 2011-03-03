@@ -32,8 +32,8 @@ Gem::Specification.new do |s|
   # s.extensions = %w[ext/extconf.rb]
 
   ## If your gem includes any executables, list them here.
-  s.executables = ["table_builder"]
-  s.default_executable = 'table_builder'
+  #s.executables = [""]
+  #s.default_executable = ''
 
   ## Specify any RDoc options here. You'll want to add your README and
   ## LICENSE files to the extra_rdoc_files list.
